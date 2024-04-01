@@ -7,7 +7,8 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 public class Alarm {
-	
+
+
 	private Time time;
 	private Boolean powerState;
 	private static Timer ringer;
